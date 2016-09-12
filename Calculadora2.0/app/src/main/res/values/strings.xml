@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="sete">7</string>
+    <string name="oito">8</string>
+    <string name="nove">9</string>
+    <string name="divisao">/</string>
+    <string name="quatro">4</string>
+    <string name="cinco">5</string>
+    <string name="seis">6</string>
+    <string name="multi">*</string>
+    <string name="um">1</string>
+    <string name="dois">2</string>
+    <string name="tres">3</string>
+    <string name="subt">-</string>
+    <string name="ponto">.</string>
+    <string name="zero">0</string>
+    <string name="resultado">=</string>
+    <string name="soma">+</string>
+    <string name="limpar">C</string>
+    <string name="apagar_caracter">←</string>
+    <!-- Sobre o App -->
+    <string name="sobre">Sobre o App</string>
+    <string name="sobre_texto">
+        <![CDATA[
+            <h3><b>%1$s</b></h3><br/>
+            <b>Versão:</b> %2$s<br/>
+            <b>Autor:</b> Vagner Silva<br/><br/>
+            <center><a href="https://github.com/vagnerufms">Github</a></center><br/><br/>
+        ]]>
+    </string>
+    <!-- Formulário de Botões de Ações -->
+    <string name="action_sobre">Sobre o App</string>
+</resources>
