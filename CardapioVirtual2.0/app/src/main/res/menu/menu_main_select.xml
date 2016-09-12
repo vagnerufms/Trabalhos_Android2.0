@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/selectAll"
+        android:icon="@android:drawable/ic_dialog_dialer"
+        android:orderInCategory="100"
+        android:title="@string/select_all"
+        app:showAsAction="ifRoom|withText"/>
+
+    <item
+        android:id="@+id/delete"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:orderInCategory="100"
+        android:title="@string/delete"
+        app:showAsAction="ifRoom|withText"/>
+</menu>

@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Cardápio</string>
+    <string name="search_hint">Buscar Lanche...</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="cadastrar">Cadastrar</string>
+    <string name="delete">Excluir</string>
+    <string name="select_all">Selecionar Todos</string>
+    <string name="lanches">Cardápio</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="edicao">Edição</string>
+
+    <string name="form_button_selecao_imagem">Selecionar Imagem</string>
+
+    <!-- Sobre o App -->
+    <string name="sobre">Sobre o App</string>
+    <string name="sobre_texto">
+        <![CDATA[
+            <h3><b>%1$s</b></h3><br/>
+            <b>Versão:</b> %2$s<br/>
+            <b>Autor:</b> Vagner Silva<br/><br/>
+            <center><a href="https://github.com/vagnerufms">Github</a></center><br/><br/>
+        ]]>
+    </string>
+
+    <string name="imagem_lanche">Imagem</string>
+    <string name="labelDescricao">"Descrição: "</string>
+    <string name="hintDescricao">"Informe a Descrição"</string>
+    <string name="labelPreco">"Preço: "</string>
+    <string name="hintPreco">"Informe o Preço"</string>
+    <string name="labelNome">"Nome: "</string>
+    <string name="hintNome">"Informe o Nome"</string>
+    <string name="text_item_selecionado">" Selecionado"</string>
+    <string name="text_itens_selecionados">" Selecionados"</string>
+
+    <!-- Formulário de Botões de Ações -->
+    <string name="action_sobre">Sobre o App</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_add">Adicionar</string>
+    <string name="action_edit">Editar</string>
+    <string name="action_delete">Excluir</string>
+    <string name="action_refresh">Atualizar Lista</string>
+    <string name="action_save">Salvar</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_camera">Câmera</string>
+    <string name="action_browse_file">Buscar Imagem</string>
+
+    <!-- Mensagens de Sucesso e Erro-->
+    <string name="message_success_save">Lanche Salvo com Sucesso!</string>
+    <string name="message_success_cadastro">Lanche Cadastrado com Sucesso!</string>
+    <string name="message_success_atualizado">Lanche Atualizado com Sucesso!</string>
+    <string name="message_cancel_atualizar">Edição Cancelada!</string>
+    <string name="message_success_atualiza_lista">Lista de Lanches Atualizada!</string>
+    <string name="message_error_empty">Campo %1$s não pode ficar Vazio</string>
+    <string name="message_error_already_exists">Campo %1$s já existe</string>
+
+    <string name="msg_lanche_excluido_sucesso">" Lanche Excluído com Sucesso"</string>
+    <string name="msg_lanches_excluidos_sucesso">" Lanches Excluídos com Sucesso"</string>
+    <string name="imagemDescricao">imagem</string>
+</resources>
